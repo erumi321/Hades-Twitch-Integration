@@ -19,139 +19,139 @@
     }
     {
       Id = "TwitchIntegration_PLAYER_HEAL"
-      DisplayName = "Heal Zagreus"
+      DisplayName = "{$TempTextData.EventDisplayNames.TwitchIntegration_PLAYER_HEAL}"
     }
     {
       Id = "TwitchIntegration_PLAYER_DAMAGE"
-      DisplayName = "Damage Zagreus"
+      DisplayName = "{$TempTextData.EventDisplayNames.TwitchIntegration_PLAYER_DAMAGE}"
     }
     {
       Id = "TwitchIntegration_SPAWN_CENTAUR"
-      DisplayName = "Spawn Centaur Heart"
+      DisplayName = "{$TempTextData.EventDisplayNames.TwitchIntegration_SPAWN_CENTAUR}"
     }
     {
       Id = "TwitchIntegration_SPAWN_HAMMER"
-      DisplayName = "Spawn Hammer"
+      DisplayName = "{$TempTextData.EventDisplayNames.TwitchIntegration_SPAWN_HAMMER}"
     }
     {
       Id = "TwitchIntegration_SPAWN_POM"
-      DisplayName = "Spawn Pom"
+      DisplayName = "{$TempTextData.EventDisplayNames.TwitchIntegration_SPAWN_POM}"
     }
     {
       Id = "TwitchIntegration_REMOVE_RANDOM_BOON"
-      DisplayName = "Remove a boon"
+      DisplayName = "{$TempTextData.EventDisplayNames.TwitchIntegration_REMOVE_RANDOM_BOON}"
     }
     {
       Id = "TwitchIntegration_SPAWN_RANDOM_BOON"
-      DisplayName = "Spawn a boon"
+      DisplayName = "{$TempTextData.EventDisplayNames.TwitchIntegration_SPAWN_RANDOM_BOON}"
     }
     {
       Id = "TwitchIntegration_SPAWN_RANDOM_ENEMIES"
-      DisplayName = "Spawn enemies"
+      DisplayName = "{$TempTextData.EventDisplayNames.TwitchIntegration_SPAWN_RANDOM_ENEMIES}"
     }
     {
       Id = "TwitchIntegration_GIVE_MONEY"
-      DisplayName = "Give money"
+      DisplayName = "{$TempTextData.EventDisplayNames.TwitchIntegration_GIVE_MONEY}"
     }
     {
       Id = "TwitchIntegration_REMOVE_MONEY"
-      DisplayName = "Remove money"
+      DisplayName = "{$TempTextData.EventDisplayNames.TwitchIntegration_REMOVE_MONEY}"
     }
     {
       Id = "TwitchIntegration_EMPTY_SUPER_METER"
-      DisplayName = "Drain Aid meter"
+      DisplayName = "{$TempTextData.EventDisplayNames.TwitchIntegration_EMPTY_SUPER_METER}"
     }
     {
       Id = "TwitchIntegration_FILL_SUPER_METER"
-      DisplayName = "Fill Aid meter"
+      DisplayName = "{$TempTextData.EventDisplayNames.TwitchIntegration_FILL_SUPER_METER}r"
     }
     {
       Id = "TwitchIntegration_DISABLE_DASH"
-      DisplayName = "Disable dash"
+      DisplayName = "{$TempTextData.EventDisplayNames.TwitchIntegration_DISABLE_DASH}"
     }
     {
       Id = "TwitchIntegration_ROOM_WIPE"
-      DisplayName = "Kill all enemies"
+      DisplayName = "{$TempTextData.EventDisplayNames.TwitchIntegration_ROOM_WIPE}"
     }
     {
       Id = "TwitchIntegration_GIVE_DARKNESS"
-      DisplayName = "Give darkness"
+      DisplayName = "{$TempTextData.EventDisplayNames.TwitchIntegration_GIVE_DARKNESS}"
     }
     {
       Id = "TwitchIntegration_GIVE_NECTAR"
-      DisplayName = "Give nectar"
+      DisplayName = "{$TempTextData.EventDisplayNames.TwitchIntegration_GIVE_NECTAR}"
     }
     {
       Id = "TwitchIntegration_GIVE_KEY"
-      DisplayName = "Give key"
+      DisplayName = "{$TempTextData.EventDisplayNames.TwitchIntegration_GIVE_KEY}"
     }
     {
       Id = "TwitchIntegration_GIVE_BLOOD"
-      DisplayName = "Give titan blood"
+      DisplayName = "{$TempTextData.EventDisplayNames.TwitchIntegration_GIVE_BLOOD}"
     }
     {
       Id = "TwitchIntegration_GIVE_GEMS"
-      DisplayName = "Give gems"
+      DisplayName = "{$TempTextData.EventDisplayNames.TwitchIntegration_GIVE_GEMS}"
     }
     {
       Id = "TwitchIntegration_GIVE_DIAMOND"
-      DisplayName = "Give diamond"
+      DisplayName = "{$TempTextData.EventDisplayNames.TwitchIntegration_GIVE_DIAMOND}"
     }
     {
       Id = "TwitchIntegration_CHARM_ALL_ENEMIES"
-      DisplayName = "Charm all enemies"
+      DisplayName = "{$TempTextData.EventDisplayNames.TwitchIntegration_CHARM_ALL_ENEMIES}"
     }
     {
       Id = "TwitchIntegration_SPAWN_MINI_CHARIOTS"
-      DisplayName = "Spawn mini chariots"
+      DisplayName = "{$TempTextData.EventDisplayNames.TwitchIntegration_SPAWN_MINI_CHARIOTS}"
     }
     {
       Id = "TwitchIntegration_SPAWN_PESTS"
-      DisplayName = "Spawn pests"
+      DisplayName = "{$TempTextData.EventDisplayNames.TwitchIntegration_SPAWN_PESTS}"
     }
     {
       Id = "TwitchIntegration_SPAWN_CHAOS_BOON"
-      DisplayName = "Spawn Chaos boon"
+      DisplayName = "{$TempTextData.EventDisplayNames.TwitchIntegration_SPAWN_CHAOS_BOON}"
     }
     {
       Id = "TwitchIntegration_HIDE_UI"
-      DisplayName = "Hide interface"
+      DisplayName = "{$TempTextData.EventDisplayNames.TwitchIntegration_HIDE_UI}"
     }
     {
       Id = "TwitchIntegration_GIVE_TEMP_RARITY_BOOST"
-      DisplayName = "Next boon rarity increased"
+      DisplayName = "{$TempTextData.EventDisplayNames.TwitchIntegration_GIVE_TEMP_RARITY_BOOST}"
     }
     {
       Id = "TwitchIntegration_FORCE_CHAOS_GATE"
-      DisplayName = "Force Chaos gate"
+      DisplayName = "{$TempTextData.EventDisplayNames.TwitchIntegration_FORCE_CHAOS_GATE}"
     }
     {
       Id = "TwitchIntegration_FORCE_TROVE"
-      DisplayName = "Force infernal trove"
+      DisplayName = "{$TempTextData.EventDisplayNames.TwitchIntegration_FORCE_TROVE}"
     }
     {
       Id = "TwitchIntegration_FORCE_FISH"
-      DisplayName = "Force fishing point"
+      DisplayName = "{$TempTextData.EventDisplayNames.TwitchIntegration_FORCE_FISH}"
     }
     {
       Id = "TwitchIntegration_ADD_DEFIANCE"
-      DisplayName = "Give Death Defiance"
+      DisplayName = "{$TempTextData.EventDisplayNames.TwitchIntegration_ADD_DEFIANCE}"
     }
     {
       Id = "TwitchIntegration_BOSS_MINELAYER"
-      DisplayName = "Minelayer boss battle"
+      DisplayName = "{$TempTextData.EventDisplayNames.TwitchIntegration_BOSS_MINELAYER}"
     }
     {
       Id = "TwitchIntegration_BOSS_RAT_THUG"
-      DisplayName = "Rat thug boss battle"
+      DisplayName = "{$TempTextData.EventDisplayNames.TwitchIntegration_BOSS_RAT_THUG}"
     }
     {
       Id = "TwitchIntegration_BOSS_HELPING_HANDS"
-      DisplayName = "Hands boss battle"
+      DisplayName = "{$TempTextData.EventDisplayNames.TwitchIntegration_BOSS_HELPING_HANDS}"
     }
     {
       Id = "TwitchIntegration_CREATE_DEVOTION_EFFECT"
-      DisplayName = "Anger a random god"
+      DisplayName = "{$TempTextData.EventDisplayNames.TwitchIntegration_CREATE_DEVOTION_EFFECT}"
     }
     {
       Id = "TwitchIntegration_"
